@@ -9,7 +9,6 @@
 **Phishing Indicator:** Legitimate Microsoft emails come from official domains like `@microsoft.com` or `@account.microsoft.com`. The domain `microsoft-support-team.com` is a similar domain , likely registered by attackers to deceive recipients.
 
 ## 2. Email Header Analysis
-How to View the Header (in Gmail)
 - Open the email
 - Click on 3 dots (More)
 - Select "Show Original"
