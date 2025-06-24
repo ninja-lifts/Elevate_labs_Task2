@@ -13,8 +13,8 @@
 - Click on 3 dots (More)
 - Select "Show Original"
 - It opens the full raw header + message
-- Gmail also gave all the information but i also used a another tool .( I have a attached a Screenshot showing the result of a genuine message from trusted source.) 
-To analyze the headers, I copied the full email header  and paste it into a header analyzer tool (MXToolBox). The tool revealed following discrepancies:
+- Gmail also gave all the information but i also used a another tool ( I have a attached a Screenshot showing the result of a genuine message from trusted source.),
+To analyze the headers , I copied the full email header  and paste it into a header analyzer tool (MXToolBox). The tool revealed following discrepancies:
 
 **Authentication-Results (SPF & DKIM):**
 - **SPF (Sender Policy Framework):** The analyzer showed `spf=fail`. This means the server at `microsoft-support-team.com` is not authorized to send emails on behalf of Microsoft.
