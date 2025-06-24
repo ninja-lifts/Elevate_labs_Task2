@@ -10,11 +10,11 @@
 
 ## 2. Email Header Analysis
   How to View the Header (in Gmail)
-    --Open the email
-    --Click on 3 dots (More)
-    --Select "Show Original"
-    --It opens the full raw header + message
-    --Gmail also gave all the information but i also used a another tool .( I have a attached a Screenshot showing the result of a genuine message from trusted source.) 
+    - Open the email
+    - Click on 3 dots (More)
+    - Select "Show Original"
+    - It opens the full raw header + message
+    - Gmail also gave all the information but i also used a another tool .( I have a attached a Screenshot showing the result of a genuine message from trusted source.) 
 To analyze the headers, I copied the full email header  and paste it into a header analyzer tool (MXToolBox). The tool revealed following discrepancies:
 
 **Authentication-Results (SPF & DKIM):**
